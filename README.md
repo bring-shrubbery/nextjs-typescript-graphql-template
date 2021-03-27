@@ -1,6 +1,6 @@
 # TypeScript and GraphQL Example
 
-This repository is a clone of an official Next.js [example](https://github.com/vercel/next.js/tree/master/examples/with-typescript-graphql) but with better file structure (better in my opinion). Feel free to use it in your project
+*This repository is a clone of an official Next.js [example](https://github.com/vercel/next.js/tree/master/examples/with-typescript-graphql) but with better file structure (better in my opinion), with absolute imports and latest dependency versions. Feel free to use it in your project.*
 
 One of the strengths of GraphQL is [enforcing data types on runtime](https://graphql.github.io/graphql-spec/June2018/#sec-Value-Completion). Further, TypeScript and [GraphQL Code Generator](https://graphql-code-generator.com/) (graphql-codegen) make it safer by typing data statically, so you can write truly type-protected code with rich IDE assists.
 
